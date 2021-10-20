@@ -2,7 +2,7 @@ package com.a;
 
 import java.util.ArrayList;
 
-public class SÀ≥ ±’Î¥Ú”°æÿ’Û {
+public class SÀ≥ ±’Î¥Ú”°æÿ’Û {//
 	public static ArrayList<Integer> printMatrix(int[][] matrix) {
 		ArrayList<Integer> list = new ArrayList<Integer>();
 		int rowlength = matrix[0].length;
